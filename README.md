@@ -23,7 +23,7 @@ for multiclass cancer classification using the **TCGA Pan-Cancer RNA-Seq dataset
 │   ├── eda/
 │   ├── pca/
 │   └── kpca/
-├── manuscript/       # Internship report and related material
+├── manuscript/       
 ├── notebooks/        # Experiment notebooks
 ├── results
 │   ├── metrics/
